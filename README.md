@@ -1,3 +1,4 @@
 Customer Retention & Churn Analytics is a business intelligence project designed to analyse customer behaviour, identify the major factors contributing to customer churn, and develop effective strategies to improve customer retention. Customer churn occurs when customers discontinue their relationship with a company or stop using its products or services. High churn rates can negatively affect revenue, profitability, customer loyalty, and long-term business growth. This project uses MySQL, Microsoft Excel, and Power BI to transform customer data into meaningful business insights and support data-driven decision-making.
  <img width="1375" height="801" alt="Screenshot 2026-10-11 195624" src="https://github.com/user-attachments/assets/3507d083-e3b6-49e8-a7f6-8fae3992b577" />
-<img width="1375" height="801" alt="Screenshot 2026-10-11 195624" src="https://github.com/user-attachments/assets/1d6e85cd-257e-4ecd-b744-e31d65b0837f" />
+<img width="1366" height="790" alt="Screenshot 2026-10-11 195604" src="https://github.com/user-attachments/assets/e46122c6-4aaf-419f-bcd6-8c65ab1a7883" />
+
